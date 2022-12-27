@@ -1,0 +1,1 @@
+print([i for i,x in enumerate([1,2,3,2]) if x==2])
