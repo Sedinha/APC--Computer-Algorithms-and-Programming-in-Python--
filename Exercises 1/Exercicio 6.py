@@ -1,0 +1,5 @@
+s = input()
+o = input()
+p = input()
+Return = (f"{s} {p + o}")
+print(Return)
